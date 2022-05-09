@@ -1,0 +1,39 @@
+.container {
+	font-family: Arial, serif; 
+	max-width: 900px;
+}
+body {
+	background-color: #F0F0F0;
+}
+.img-fluid {
+	margin-bottom: 10px;
+	width: 900px;
+}
+h1 {
+	font-family: Didot, serif;
+}
+iframe {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+p {
+	max-width: 900px;
+}
+.col-lg-8 {
+	margin-bottom: 50px;
+	margin-top: 50px; 
+	padding-top: 40px; 
+	max-width: 900px;
+}
+.caption {
+	color: black; 
+	font-size: .9em; 
+	margin-bottom: 30px;
+}
+.caption span {
+	color: gray; 
+	font-size: .8em;
+}
+.col-lg-8 hr {
+	color: red;
+}
